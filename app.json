@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Santander Cafe Rewards",
+    "slug": "santander-cafe-rewards",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/brand/work-cafe-lockup-black.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "splash": {
+        "image": "./assets/brand/work-cafe-lockup-black.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFDFC"
+      },
+      "splash": {
+        "image": "./assets/brand/work-cafe-lockup-black.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
